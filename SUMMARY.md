@@ -14,4 +14,5 @@
   * [组合数取模](zu-he-shu-xue/zu-he-shu-qu-mo.md)
   * [组合数各项平方和](zu-he-shu-xue/zu-he-shu-ge-xiang-ping-fang-he.md)
 * [单调栈](dan-tiao-zhan.md)
+* [倍增](bei-zeng.md)
 
