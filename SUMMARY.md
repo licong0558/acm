@@ -18,4 +18,5 @@
 * [思考流程](si-kao-liu-cheng.md)
 * [图论](tu-lun/README.md)
   * [结论](tu-lun/jie-lun.md)
+  * [树链剖分](tu-lun/shu-lian-pou-fen.md)
 
