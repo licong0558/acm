@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [错误总结](cuo-wu-zong-jie.md)
+* [思考流程](si-kao-liu-cheng.md)
 * [随机化](sui-ji-hua.md)
 * [二分法](er-fen-fa.md)
 * [计算几何](ji-suan-ji-he/README.md)
@@ -15,7 +16,6 @@
   * [组合数各项平方和](zu-he-shu-xue/zu-he-shu-ge-xiang-ping-fang-he.md)
 * [单调栈](dan-tiao-zhan.md)
 * [倍增](bei-zeng.md)
-* [思考流程](si-kao-liu-cheng.md)
 * [图论](tu-lun/README.md)
   * [结论](tu-lun/jie-lun.md)
   * [树链剖分](tu-lun/shu-lian-pou-fen.md)
