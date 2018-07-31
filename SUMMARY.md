@@ -17,6 +17,7 @@
   * [组合数取模](zu-he-shu-xue/zu-he-shu-qu-mo.md)
   * [组合数各项平方和](zu-he-shu-xue/zu-he-shu-ge-xiang-ping-fang-he.md)
 * [单调栈](dan-tiao-zhan.md)
+* [单调队列](dan-tiao-dui-lie.md)
 * [倍增](bei-zeng.md)
 * [图论](tu-lun/README.md)
   * [结论](tu-lun/jie-lun.md)
