@@ -1,8 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [错误总结](cuo-wu-zong-jie.md)
-* [思考流程](si-kao-liu-cheng.md)
+* [解题思路](jie-ti-si-lu/README.md)
+  * [错误总结](jie-ti-si-lu/cuo-wu-zong-jie.md)
+  * [思考流程](jie-ti-si-lu/si-kao-liu-cheng.md)
+  * [突破口](jie-ti-si-lu/tu-po-kou.md)
 * [随机化](sui-ji-hua.md)
 * [二分法](er-fen-fa.md)
 * [计算几何](ji-suan-ji-he/README.md)
