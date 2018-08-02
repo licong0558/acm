@@ -16,11 +16,12 @@
   * [费马小定理](shu-lun/fei-ma-xiao-ding-li.md)
 * [组合数学](zu-he-shu-xue/README.md)
   * [组合数取模](zu-he-shu-xue/zu-he-shu-qu-mo.md)
-  * [组合数各项平方和](zu-he-shu-xue/zu-he-shu-ge-xiang-ping-fang-he.md)
+  * [组合数相关公式](zu-he-shu-xue/zu-he-shu-ge-xiang-ping-fang-he.md)
 * [单调栈](dan-tiao-zhan.md)
 * [单调队列](dan-tiao-dui-lie.md)
 * [倍增](bei-zeng.md)
 * [图论](tu-lun/README.md)
   * [结论](tu-lun/jie-lun.md)
   * [树链剖分](tu-lun/shu-lian-pou-fen.md)
+* [莫队算法](mo-dui-suan-fa.md)
 
