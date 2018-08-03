@@ -23,6 +23,7 @@
 * [图论](tu-lun/README.md)
   * [结论](tu-lun/jie-lun.md)
   * [树链剖分](tu-lun/shu-lian-pou-fen.md)
+  * [欧拉图](tu-lun/ou-la-tu.md)
 * [莫队算法](mo-dui-suan-fa.md)
 * [Bitset](bitset.md)
 
