@@ -29,4 +29,5 @@
 * [博弈论](bo-lun/README.md)
   * [Nim游戏](bo-lun/nim-you-xi.md)
   * [SG函数](bo-lun/sg-han-shu.md)
+  * [威佐夫博奕](bo-lun/wei-fu-bo-yi.md)
 
