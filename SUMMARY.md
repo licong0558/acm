@@ -30,4 +30,6 @@
   * [Nim游戏](bo-lun/nim-you-xi.md)
   * [SG函数](bo-lun/sg-han-shu.md)
   * [威佐夫博奕](bo-lun/wei-fu-bo-yi.md)
+* [状态压缩](zhuang-tai-ya-suo/README.md)
+  * [生成当前二进制中1的子集](zhuang-tai-ya-suo/sheng-cheng-dang-qian-er-jin-zhi-zhong-1-de-zi-ji.md)
 
