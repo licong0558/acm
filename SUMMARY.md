@@ -26,4 +26,7 @@
   * [欧拉图](tu-lun/ou-la-tu.md)
 * [莫队算法](mo-dui-suan-fa.md)
 * [Bitset](bitset.md)
+* [博弈论](bo-lun/README.md)
+  * [Nim游戏](bo-lun/nim-you-xi.md)
+  * [SG函数](bo-lun/sg-han-shu.md)
 
