@@ -14,6 +14,7 @@
 * [数论](shu-lun/README.md)
   * [拓展欧几里得](shu-lun/tuo-zhan-ou-ji-li-de.md)
   * [费马小定理](shu-lun/fei-ma-xiao-ding-li.md)
+  * [向上向下取整的不等式运算](shu-lun/xiang-shang-xiang-xia-qu-zheng-de-bu-deng-shi-yun-suan.md)
 * [组合数学](zu-he-shu-xue/README.md)
   * [组合数取模](zu-he-shu-xue/zu-he-shu-qu-mo.md)
   * [组合数相关公式](zu-he-shu-xue/zu-he-shu-ge-xiang-ping-fang-he.md)
