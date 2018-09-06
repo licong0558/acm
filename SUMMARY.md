@@ -26,11 +26,12 @@
   * [树链剖分](tu-lun/shu-lian-pou-fen.md)
   * [欧拉图](tu-lun/ou-la-tu.md)
 * [莫队算法](mo-dui-suan-fa.md)
-* [Bitset](bitset.md)
 * [博弈论](bo-lun/README.md)
   * [Nim游戏](bo-lun/nim-you-xi.md)
   * [SG函数](bo-lun/sg-han-shu.md)
   * [威佐夫博奕](bo-lun/wei-fu-bo-yi.md)
 * [状态压缩](zhuang-tai-ya-suo/README.md)
   * [生成当前二进制中1的子集](zhuang-tai-ya-suo/sheng-cheng-dang-qian-er-jin-zhi-zhong-1-de-zi-ji.md)
+  * [求一个数中二进制1的位数](zhuang-tai-ya-suo/qiu-yi-ge-shu-zhong-er-jin-zhi-1-de-wei-shu.md)
+* [第一个比k大的数](di-yi-ge-bikda-de-shu.md)
 
