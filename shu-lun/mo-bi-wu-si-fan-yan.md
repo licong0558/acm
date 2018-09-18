@@ -11,6 +11,34 @@
 
 可知有平方因子的数的莫比乌斯函数值为 $$0$$ 。
 
+### 生成
+
+与线性筛类似，每一个数的值由他的最大因子生成。
+
+```cpp
+const ll LIM= 1e5;
+ll prime[LIM+100],cnt;
+bool isprime[LIM+100];
+ll mu[LIM+100];
+void linear()
+{
+    cnt=0;
+    memset(isprime,1,sizeof(isprime));
+    isprime[1]=false; mu[1]=1;
+    for(int i=2;i<=LIM;i++)
+    {
+        if(isprime[i]){prime[cnt++]=i; mu[i]=-1;}
+         for(int j=0;j<cnt&&i*prime[j]<=LIM;j++)
+         {
+             if(i*prime[j]>LIM) continue;
+            isprime[i*prime[j]]=false;
+            if(i%prime[j]==0){ break; mu[i*prime[j]]=0;}
+            else mu[i*prime[j]]=mu[i]*-1;
+        }
+    }
+}
+```
+
 ### 性质
 
  **性质一：**莫比乌斯函数是积性函数。

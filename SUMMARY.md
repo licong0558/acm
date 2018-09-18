@@ -12,6 +12,7 @@
   * [由一般式方程求两直线交点](ji-suan-ji-he/you-yi-ban-shi-fang-cheng-qiu-liang-zhi-xian-jiao-dian.md)
   * [叉积](ji-suan-ji-he/cha-ji.md)
 * [数论](shu-lun/README.md)
+  * [线性筛](shu-lun/xian-xing-shai.md)
   * [莫比乌斯反演](shu-lun/mo-bi-wu-si-fan-yan.md)
   * [拓展欧几里得](shu-lun/tuo-zhan-ou-ji-li-de.md)
   * [费马小定理](shu-lun/fei-ma-xiao-ding-li.md)
