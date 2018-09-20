@@ -110,7 +110,7 @@ $$
 
 ## 应用
 
-### 求 $$[1,a],[1,b]$$ 互质数的对数
+### 求 $$[1,a],[1,b]$$ $$gcd=k$$ 的对数
 
 $$F(n)$$ :有公因数为 $$n$$ 的对数
 
@@ -122,5 +122,28 @@ $$
 F(n)=\sum_{n|d}f(d)
 $$
 
-**可以拓展到求** $$gcd=k$$ **的对数**
+### 分块
+
+以求 $$gcd=1$$ 为例
+
+```cpp
+for(ll i=1;i<=n;++i)
+{
+    ll end=min(n/(n/i),m/(m/i));
+    cans+=(premu[end]-premu[i-1])*(n/j)*(m/j);
+    j=end;
+}
+```
+
+对每个 $$i$$ ,找到最大的满足 $$\frac{n}{i}=\frac{n}{i'}$$ 的$$i'$$ 
+
+$$
+\frac{n}{i'}>=\frac{n}{i}
+$$
+
+可得
+
+$$
+i'<=\lfloor{\frac{n}{\lfloor\frac{n}{i} \rfloor}}\rfloor
+$$
 
